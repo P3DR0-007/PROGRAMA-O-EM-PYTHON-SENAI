@@ -1,31 +1,26 @@
-print('Seja bem vindo!')
+resultado = (9*3)*2
+print ('resultado: ', resultado)
 
-verdadeiro = True
-print(type(verdadeiro))
+resultado = (81**0.5)
+print ('resultado', resultado)
 
-print(10.5 * 2.00)
+resultado = (3*4)+20
+print ('resultado: ', resultado)
 
-print (10/2)
+resultado = (15*2)-7
+print ('resultado: ', resultado)
 
-print(10-5)
+resultado = 5**3
+print ('resultado: ', resultado)
 
-print(10//2)
+resultado = (17+21+25)/3
+print ('resultado: ', resultado)
 
-print(10.0 * 5.0 * 2.6 * 8.0)
+resultado = (11*2)+7
+print ('resultado: ', resultado)
 
-numero = 10
-print(numero ** 2)
+resultado = ((3 * 8)-15)/2
+print ('resultado: ', resultado)
 
-nome = int(input('Digite seu nome: '))
-idade = int(input('Digite sua idade: '))
-email = input('Digite seu e-mail :')
-endereco = input('Digite seu endereço')
-curso = input('Digite seu curso: ')
-            
-print(f'''
-nome: {nome}
-idade: {idade}
-e-mail: {email}
-enderço: {endereco}
-curso: {curso}
-''')
+resultado = (2**10)
+print ('resultado: ', resultado)
