@@ -1,0 +1,52 @@
+Tecnologias Utilizadas:
+
+Python 3.x: linguagem de programação principal.
+
+JSON: usado para persistência dos dados (armazenamento dos livros e acessos).
+
+Interface CLI (linha de comando): simples e direta para interação.
+
+
+
+---
+
+Funcionalidades (Requisitos Funcionais):
+
+Criar livro: adicionar um novo livro e seu resumo.
+
+Ler livro: visualizar o resumo de um livro e registrar o acesso.
+
+Atualizar livro: alterar o resumo de um livro já existente.
+
+Deletar livro: remover um livro do sistema.
+
+Estatísticas: mostrar quantas vezes cada livro foi acessado.
+
+
+
+---
+
+Como Rodar em Outra Máquina
+
+Passo a passo:
+
+1. Instale o Python
+Acesse: https://www.python.org/downloads/
+Baixe e instale a versão 3.x para seu sistema operacional.
+
+
+2. Copie os Arquivos
+Copie o arquivo Python fornecido (.py) para a máquina de destino. Você pode usar um pendrive, e-mail, ou um repositório Git, por exemplo.
+
+
+3. Crie um terminal ou abra o Prompt de Comando
+Navegue até o diretório onde está o script.
+
+
+4. Execute o programa:
+
+python nome_do_arquivo.py
+
+Exemplo, se você salvou como livros.py:
+
+python livros.py
